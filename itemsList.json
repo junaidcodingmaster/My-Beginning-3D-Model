@@ -9,6 +9,12 @@
             "title":"3D Table",
             "shortDescription":"A Simple Colored Table",
             "folderPath":"/Table"
-        }
+        },
+{
+"title":"3D Train",
+"shortDescription":"A Simple Colored 3D Train Model",
+"folderPath":"/Train"
+
+}
     ]
 }
