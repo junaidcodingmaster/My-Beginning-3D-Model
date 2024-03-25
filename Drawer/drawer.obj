@@ -1,6 +1,6 @@
 # Made by Junaid
 
-mtllib obj.mtl
+mtllib drawer.mtl
 
 o obj_0
 v 0.842 		-44.342 		85.316
