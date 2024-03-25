@@ -26,10 +26,10 @@ items.forEach((item) => {
   li.innerHTML = `<u>${item.title}</u> - ${item.shortDescription}`;
 
   const ul = document.createElement("ul");
-  const downloadButton = `<li><button onclick="download('${item.folderPath}/drawer.zip')"><i class="fa fa-file-zip-o"></i>DOWNLOAD ZIP</button></li>`;
+  
   const openFolderButton = `<li><button onclick="folderOpener('${item.folderPath}')"><i class="fa fa-folder-open"></i>OPEN FOLDER</button></li>`;
 
-  ul.innerHTML = downloadButton + openFolderButton;
+  ul.innerHTML =  openFolderButton;
   li.appendChild(ul);
 
   ol.appendChild(li);

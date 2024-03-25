@@ -3,7 +3,12 @@
         {
             "title":"3D Drawer",
             "shortDescription":"A simple Drawer 3D Model",
-            "folderPath":"./Drawer"
+            "folderPath":"/Drawer"
+        },
+        {
+            "title":"3D Table",
+            "shortDescription":"A Simple Colored Table",
+            "folderPath":"/Table"
         }
     ]
 }
