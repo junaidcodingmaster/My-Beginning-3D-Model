@@ -1,20 +1,19 @@
 {
-    "items":[
-        {
-            "title":"3D Drawer",
-            "shortDescription":"A simple Drawer 3D Model",
-            "folderPath":"./Drawer"
-        },
-        {
-            "title":"3D Table",
-            "shortDescription":"A Simple Colored Table",
-            "folderPath":"./Table"
-        },
-{
-"title":"3D Train",
-"shortDescription":"A Simple Colored 3D Train Model",
-"folderPath":"./Train"
-
-}
-    ]
+  "items": [
+    {
+      "title": "3D Drawer",
+      "shortDescription": "A simple Drawer 3D Model",
+      "folderPath": "Drawer"
+    },
+    {
+      "title": "3D Table",
+      "shortDescription": "A Simple Colored Table",
+      "folderPath": "Table"
+    },
+    {
+      "title": "3D Train",
+      "shortDescription": "A Simple Colored 3D Train Model",
+      "folderPath": "Train"
+    }
+  ]
 }
